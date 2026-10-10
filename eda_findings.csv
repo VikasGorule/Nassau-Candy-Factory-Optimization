@@ -1,0 +1,8 @@
+Area,Finding
+Dataset,"10,194 records were analyzed."
+Date quality,"Order dates range from 2024 to 2025, while shipping dates range from 2026 to 2030."
+Lead time,"Recorded lead times range from 904 to 1,642 days. Their validity as actual shipping durations is unverified."
+Product division,"Chocolate has the highest gross profit among the three divisions, at 88,824.62."
+Factory performance,Lot's O' Nuts has the highest gross profit among factories with verified product mappings.
+Predictive modeling,Random Forest MAE is 225.90 days and R² is -0.0949. It performs worse than the mean baseline.
+Mapping coverage,"10,187 records have verified factory mappings; 7 records remain unmapped."

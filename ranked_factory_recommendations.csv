@@ -1,0 +1,46 @@
+Division,Product Name,Current Factory,Current Latitude,Current Longitude,Alternative Factory,Alternative Latitude,Alternative Longitude,Distance_km,Distance Rank
+Sugar,Everlasting Gobstopper,Secret Factory,41.446333,-90.565487,The Other Factory,35.1175,-89.971107,705.6383090188377,1
+Sugar,Everlasting Gobstopper,Secret Factory,41.446333,-90.565487,Sugar Shock,48.11914,-96.18115,863.7232206753317,2
+Sugar,Everlasting Gobstopper,Secret Factory,41.446333,-90.565487,Wicked Choccy's,32.076176,-81.088371,1339.2134370684355,3
+Other,Fizzy Lifting Drinks,Sugar Shock,48.11914,-96.18115,Secret Factory,41.446333,-90.565487,863.7232206753317,1
+Other,Fizzy Lifting Drinks,Sugar Shock,48.11914,-96.18115,The Other Factory,35.1175,-89.971107,1533.821088667856,2
+Other,Fizzy Lifting Drinks,Sugar Shock,48.11914,-96.18115,Lot's O' Nuts,32.881893,-111.768036,2137.812670717757,3
+Sugar,Hot Toffee,The Other Factory,35.1175,-89.971107,Secret Factory,41.446333,-90.565487,705.6383090188377,1
+Sugar,Hot Toffee,The Other Factory,35.1175,-89.971107,Wicked Choccy's,32.076176,-81.088371,889.0709240748232,2
+Sugar,Hot Toffee,The Other Factory,35.1175,-89.971107,Sugar Shock,48.11914,-96.18115,1533.821088667856,3
+Other,Kazookles,The Other Factory,35.1175,-89.971107,Secret Factory,41.446333,-90.565487,705.6383090188377,1
+Other,Kazookles,The Other Factory,35.1175,-89.971107,Wicked Choccy's,32.076176,-81.088371,889.0709240748232,2
+Other,Kazookles,The Other Factory,35.1175,-89.971107,Sugar Shock,48.11914,-96.18115,1533.821088667856,3
+Sugar,Laffy Taffy,Sugar Shock,48.11914,-96.18115,Secret Factory,41.446333,-90.565487,863.7232206753317,1
+Sugar,Laffy Taffy,Sugar Shock,48.11914,-96.18115,The Other Factory,35.1175,-89.971107,1533.821088667856,2
+Sugar,Laffy Taffy,Sugar Shock,48.11914,-96.18115,Lot's O' Nuts,32.881893,-111.768036,2137.812670717757,3
+Other,Lickable Wallpaper,Secret Factory,41.446333,-90.565487,The Other Factory,35.1175,-89.971107,705.6383090188377,1
+Other,Lickable Wallpaper,Secret Factory,41.446333,-90.565487,Sugar Shock,48.11914,-96.18115,863.7232206753317,2
+Other,Lickable Wallpaper,Secret Factory,41.446333,-90.565487,Wicked Choccy's,32.076176,-81.088371,1339.2134370684355,3
+Sugar,Nerds,Sugar Shock,48.11914,-96.18115,Secret Factory,41.446333,-90.565487,863.7232206753317,1
+Sugar,Nerds,Sugar Shock,48.11914,-96.18115,The Other Factory,35.1175,-89.971107,1533.821088667856,2
+Sugar,Nerds,Sugar Shock,48.11914,-96.18115,Lot's O' Nuts,32.881893,-111.768036,2137.812670717757,3
+Sugar,Runts,Sugar Shock,48.11914,-96.18115,Secret Factory,41.446333,-90.565487,863.7232206753317,1
+Sugar,Runts,Sugar Shock,48.11914,-96.18115,The Other Factory,35.1175,-89.971107,1533.821088667856,2
+Sugar,Runts,Sugar Shock,48.11914,-96.18115,Lot's O' Nuts,32.881893,-111.768036,2137.812670717757,3
+Sugar,Sweet TARTS,Sugar Shock,48.11914,-96.18115,Secret Factory,41.446333,-90.565487,863.7232206753317,1
+Sugar,Sweet TARTS,Sugar Shock,48.11914,-96.18115,The Other Factory,35.1175,-89.971107,1533.821088667856,2
+Sugar,Sweet TARTS,Sugar Shock,48.11914,-96.18115,Lot's O' Nuts,32.881893,-111.768036,2137.812670717757,3
+Chocolate,Wonka Bar - Fudge Mallows,Lot's O' Nuts,32.881893,-111.768036,The Other Factory,35.1175,-89.971107,2020.5748956325356,1
+Chocolate,Wonka Bar - Fudge Mallows,Lot's O' Nuts,32.881893,-111.768036,Secret Factory,41.446333,-90.565487,2098.5887916506817,2
+Chocolate,Wonka Bar - Fudge Mallows,Lot's O' Nuts,32.881893,-111.768036,Sugar Shock,48.11914,-96.18115,2137.812670717757,3
+Chocolate,Wonka Bar - Milk Chocolate,Wicked Choccy's,32.076176,-81.088371,The Other Factory,35.1175,-89.971107,889.0709240748232,1
+Chocolate,Wonka Bar - Milk Chocolate,Wicked Choccy's,32.076176,-81.088371,Secret Factory,41.446333,-90.565487,1339.2134370684355,2
+Chocolate,Wonka Bar - Milk Chocolate,Wicked Choccy's,32.076176,-81.088371,Sugar Shock,48.11914,-96.18115,2189.1868422492507,3
+Chocolate,Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,32.881893,-111.768036,The Other Factory,35.1175,-89.971107,2020.5748956325356,1
+Chocolate,Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,32.881893,-111.768036,Secret Factory,41.446333,-90.565487,2098.5887916506817,2
+Chocolate,Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,32.881893,-111.768036,Sugar Shock,48.11914,-96.18115,2137.812670717757,3
+Chocolate,Wonka Bar - Scrumdiddlyumptious,Lot's O' Nuts,32.881893,-111.768036,The Other Factory,35.1175,-89.971107,2020.5748956325356,1
+Chocolate,Wonka Bar - Scrumdiddlyumptious,Lot's O' Nuts,32.881893,-111.768036,Secret Factory,41.446333,-90.565487,2098.5887916506817,2
+Chocolate,Wonka Bar - Scrumdiddlyumptious,Lot's O' Nuts,32.881893,-111.768036,Sugar Shock,48.11914,-96.18115,2137.812670717757,3
+Chocolate,Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,32.076176,-81.088371,The Other Factory,35.1175,-89.971107,889.0709240748232,1
+Chocolate,Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,32.076176,-81.088371,Secret Factory,41.446333,-90.565487,1339.2134370684355,2
+Chocolate,Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,32.076176,-81.088371,Sugar Shock,48.11914,-96.18115,2189.1868422492507,3
+Other,Wonka Gum,Secret Factory,41.446333,-90.565487,The Other Factory,35.1175,-89.971107,705.6383090188377,1
+Other,Wonka Gum,Secret Factory,41.446333,-90.565487,Sugar Shock,48.11914,-96.18115,863.7232206753317,2
+Other,Wonka Gum,Secret Factory,41.446333,-90.565487,Wicked Choccy's,32.076176,-81.088371,1339.2134370684355,3
